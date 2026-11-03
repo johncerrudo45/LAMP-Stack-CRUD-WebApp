@@ -1,0 +1,62 @@
+nav {
+   margin: 8px;
+   font-family: verdana;
+   font-size: 32px;
+   background-color: beige;
+   outline: auto;
+   padding: 4px;
+   border: 2px;
+}
+
+table {
+  margin: 8px;
+  font-family: Georgia;
+  padding: 4px;
+  outline: auto;
+}
+
+td {
+   margin: 4px;
+   outline: auto;
+   font-size: 17px;
+   padding: 8px;
+   border: 2px; 
+}
+
+th {
+   margin: 4px;
+   background-color: #F1DCA7;
+   padding: 8px;
+}
+
+form {
+   margin: 8px;
+   outline: auto;
+   padding: 8px;
+   border: 4px;
+   background-color: light gray;
+}
+
+label {
+  margin: 4px;
+  border: 2px;
+  font-size: 24px;
+}
+
+#title, #description {
+  margin: 15px;
+  padding: 8px 100px 8px 8px;
+}
+
+#books, #add-books {
+  outline: auto;
+  margin: 15px;
+  padding: 16px;
+  background-color: gainsboro;
+}
+
+input[type="submit"] {
+   padding: 12px 80px;
+   font-size: 24px;
+   margin: 15px;
+}
